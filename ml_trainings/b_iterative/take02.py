@@ -1,5 +1,5 @@
 from ml_trainings import get_completion
-from ml_trainings.iterative.take01 import fact_sheet_chair
+from ml_trainings.b_iterative.take01 import fact_sheet_chair
 
 prompt = f"""
 Your task is to help a marketing team create a 

@@ -1,5 +1,5 @@
 from ml_trainings import get_completion
-from ml_trainings.summarizing.take01 import prod_review
+from ml_trainings.c_summarizing.take01 import prod_review
 
 prompt = f"""
 Your task is to extract relevant information from \ 
