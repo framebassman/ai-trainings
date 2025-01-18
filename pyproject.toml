@@ -1,14 +1,17 @@
-[tool.poetry]
+[project]
 name = "ml-trainings"
 version = "0.1.0"
 description = ""
-authors = ["Dmitry Romashov <framebassman@gmail.com>"]
+authors = [
+    {name = "Dmitry Romashov",email = "framebassman@gmail.com"}
+]
 readme = "README.md"
-
-[tool.poetry.dependencies]
-python = "^3.13"
+requires-python = ">=3.9"
+dependencies = [
+    "openai (>=1.59.8,<2.0.0)"
+]
 
 
 [build-system]
-requires = ["poetry-core"]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
