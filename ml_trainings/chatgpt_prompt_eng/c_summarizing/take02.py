@@ -1,4 +1,4 @@
-from ml_trainings import get_completion
+from ml_trainings.chatgpt_prompt_eng import get_completion
 from ml_trainings.c_summarizing.take01 import prod_review
 
 prompt = f"""

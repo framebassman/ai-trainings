@@ -1,4 +1,4 @@
-from ml_trainings import get_completion
+from ml_trainings.chatgpt_prompt_eng import get_completion
 from ml_trainings.b_iterative.take01 import fact_sheet_chair
 
 prompt = f"""

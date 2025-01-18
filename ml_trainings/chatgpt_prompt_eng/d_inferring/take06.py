@@ -1,4 +1,4 @@
-from ml_trainings import get_completion
+from ml_trainings.chatgpt_prompt_eng import get_completion
 
 story = """
 In a recent survey conducted by the government, 

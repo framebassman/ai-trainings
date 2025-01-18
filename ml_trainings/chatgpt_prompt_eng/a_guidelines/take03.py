@@ -1,4 +1,4 @@
-from ml_trainings import get_completion
+from ml_trainings.chatgpt_prompt_eng import get_completion
 
 text_1 = f"""
 Making a cup of tea is easy! First, you need to get some \ 

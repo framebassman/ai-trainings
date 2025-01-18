@@ -1,4 +1,4 @@
-from ml_trainings import get_completion
+from ml_trainings.chatgpt_prompt_eng import get_completion
 
 lamp_review = """
 Needed a nice lamp for my bedroom, and this one had \
