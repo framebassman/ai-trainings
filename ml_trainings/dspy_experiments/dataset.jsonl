@@ -1,0 +1,27 @@
+[
+  {
+    "passage": "Artificial Intelligence (AI) has significantly transformed various industries, including healthcare, finance, and transportation. AI technologies such as machine learning and natural language processing are being used to enhance decision-making, automate tasks, and improve efficiency. Despite the benefits, challenges such as ethical concerns and job displacement remain critical considerations.",
+    "summary": "AI is transforming industries by enhancing decision-making and automating tasks but faces ethical and job displacement challenges.",
+    "score": 0.95
+  },
+  {
+    "passage": "The global climate crisis continues to escalate, with rising temperatures, melting ice caps, and more frequent natural disasters. Governments and organizations are pushing for renewable energy adoption and stricter environmental regulations to combat these effects. However, the transition is often hindered by economic and political barriers.",
+    "summary": "Climate change drives extreme weather, prompting renewable energy adoption despite economic and political hurdles.",
+    "score": 0.92
+  },
+  {
+    "passage": "Remote work has become increasingly popular, especially after the COVID-19 pandemic. It offers flexibility and eliminates commute times, leading to improved work-life balance for many. However, it also presents challenges such as isolation, reduced collaboration, and difficulties in maintaining productivity.",
+    "summary": "Remote work offers flexibility and better work-life balance but faces challenges like isolation and reduced collaboration.",
+    "score": 0.88
+  },
+  {
+    "passage": "Electric vehicles (EVs) are gaining traction as a sustainable alternative to traditional combustion engine vehicles. Advances in battery technology and an expanding charging infrastructure have boosted their adoption. Yet, concerns about battery disposal and the environmental impact of mining for raw materials persist.",
+    "summary": "EVs are a sustainable alternative to combustion vehicles but face challenges with battery disposal and raw material mining.",
+    "score": 0.91
+  },
+  {
+    "passage": "Space exploration has entered a new era with private companies like SpaceX and Blue Origin playing key roles. These companies have introduced innovations such as reusable rockets, significantly reducing the cost of space missions. As space becomes more accessible, questions about regulation and space debris management are increasingly important.",
+    "summary": "Private companies are revolutionizing space exploration with reusable rockets, raising concerns about regulation and space debris.",
+    "score": 0.89
+  }
+]
