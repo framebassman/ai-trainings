@@ -1,7 +1,7 @@
 import dspy
 
-from ml_trainings.dspy_experiments.breakdown import Breakdown
-from ml_trainings.dspy_experiments.summary_correctness import SummaryCorrectness
+from ml_trainings.dspy_experiments.summarization.breakdown import Breakdown
+from ml_trainings.dspy_experiments.summarization.summary_correctness import SummaryCorrectness
 
 
 class Metric(dspy.Module):
