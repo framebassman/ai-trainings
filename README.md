@@ -1,2 +1,2 @@
-ml-trainings
+ai-trainings
 ============
