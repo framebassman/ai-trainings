@@ -12,7 +12,7 @@ def start():
 
     dataset = []
 
-    with open('ml_trainings/dspy_experiments/summarization/dataset.json', 'r', encoding='utf-8') as f:
+    with open('ai_trainings/dspy_experiments/summarization/dataset.json', 'r', encoding='utf-8') as f:
         content = f.read()
         data = json.loads(content)
         for object in data:
