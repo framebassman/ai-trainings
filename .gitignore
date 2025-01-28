@@ -22,7 +22,7 @@ pip-log.txt
 *.mo
 
 # IDEA
-.idea
+# .idea
 
 # Mac OS X
 .DS_Store
